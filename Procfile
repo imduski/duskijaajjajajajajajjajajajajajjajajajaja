@@ -1,1 +1,1 @@
-worker: node error.js
+worker: node shell.js
