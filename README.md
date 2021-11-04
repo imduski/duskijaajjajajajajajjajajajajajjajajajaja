@@ -1,1 +1,5 @@
 # Hack-project-byshell
+
+# TKAYA DASTKARI HICH SHTEK MAKA ERORO AYAT
+
+# IM SHELL
