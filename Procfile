@@ -1,1 +1,1 @@
-worker: node shell.js
+worker: node polat.js
