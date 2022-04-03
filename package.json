@@ -5,16 +5,16 @@
   "name": "hello-express",
   "version": "0.0.1",
   "description": "A simple Node app built on Express, instantly up and running.",
-  "main": "shell.js",
+  "main": "polat.js",
   "scripts": {
-    "start": "node shell.js"
+    "start": "node polat.js"
   },
   "dependencies": {
     "express": "^4.16.4",
     "discord.js": "^11.5.1"
   },
   "engines": {
-    "node": "8.x"
+    "node": "12.x"
   },
   "repository": {
     "url": "https://glitch.com/edit/#!/hello-express"
